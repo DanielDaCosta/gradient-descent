@@ -1,4 +1,4 @@
-from GradientDescent import GradientDescent
+from .GradientDescent import GradientDescent
 import numpy as np
 
 class Adam(GradientDescent):
