@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
 
-from optimizationAlgorithms.GradientDescent import GradientDescent
+from gradient_descent.GradientDescent import GradientDescent
 
 
 class TestGradientDescentClass(unittest.TestCase):

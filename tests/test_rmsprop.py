@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
 
-from optimizationAlgorithms.RMSprop import RMSprop
+from gradient_descent.RMSprop import RMSprop
 
 
 class TestRMSpropClass(unittest.TestCase):

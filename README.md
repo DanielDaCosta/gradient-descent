@@ -1,3 +1,8 @@
-# optimization-algorithms
-Python package for optimization algorithms for 2D functions
-# Test
+# Gradient Descent Optimization Algorithms
+
+This package contains implementd different gradient-based algorithms:
+- Gradients Descent
+- Momentum
+- RMSprop
+- Nesterov accelerated gradient
+- Adam

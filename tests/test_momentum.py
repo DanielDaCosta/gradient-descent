@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
 
-from optimizationAlgorithms.Momentum import Momentum
+from gradient_descent.Momentum import Momentum
 
 
 class TestMomentumClass(unittest.TestCase):

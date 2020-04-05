@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
 
-from optimizationAlgorithms.NAG import NAG
+from gradient_descent.NAG import NAG
 
 
 class TestNAGClass(unittest.TestCase):

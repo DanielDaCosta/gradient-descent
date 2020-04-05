@@ -2,7 +2,7 @@ import unittest
 import numpy as np
 
 
-from optimizationAlgorithms.Adam import Adam
+from gradient_descent.Adam import Adam
 
 
 class TestAdamClass(unittest.TestCase):
