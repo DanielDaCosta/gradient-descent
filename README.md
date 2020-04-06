@@ -1,6 +1,12 @@
 # gradient-descent
 
-gradient-descent is a package that contains different gradient-based algorithms, usually used to optimize Neural Networks and other machine learning models. 
+gradient-descent is a package that contains different gradient-based algorithms, usually used to optimize Neural Networks and other machine learning models. The package contains the following algorithms:
+
+- Gradients Descent
+- Momentum
+- RMSprop
+- Nasterov accelerated gradient
+- Adam
 
 The package purpose is to facilitate the user experience when developping using optimization algorithm and to allow the users to have a better intuition about how this *black-boxes* algorithms works.
 
@@ -27,7 +33,7 @@ All contributors of all levels are welcome to help in any possible away.
 **Souce Code**
 
 ```
-git clone https://github.com/DanielDaCosta/optimization-algorithms.git
+git clone https://github.com/DanielDaCosta/gradient-descent.git
 ```
 
 **Tests**
