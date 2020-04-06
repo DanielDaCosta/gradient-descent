@@ -8,7 +8,7 @@ gradient-descent is a package that contains different gradient-based algorithms,
 - Nasterov accelerated gradient
 - Adam
 
-The package purpose is to facilitate the user experience when developping using optimization algorithm and to allow the users to have a better intuition about how this *black-boxes* algorithms works.
+The package purpose is to facilitate the user experience when using optimization algorithms and to allow the users to have a better intuition about how this *black-boxes* algorithms works.
 
 This is an open-source project, any feedback, improvement ideas, and contributors are welcome.
 
