@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="gradient_descent",
-    version="0.0.2",
+    version="0.0.3",
     author="Daniel da Costa",
     author_email="daniel.pereiracosta@hotmail.com",
     description="Package for applying gradient descent optimization algorithms",
@@ -15,5 +15,10 @@ setup(
     url="https://github.com/DanielDaCosta/optimization-algorithms",
     packages=setuptools.find_packages(),
     python_requires='>=3.6',
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
     zip_save=False
 )
