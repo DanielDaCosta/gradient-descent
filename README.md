@@ -60,6 +60,6 @@ I would like to appreciate the help of the following contents and articles in th
 - [Optimizing Gradient Descent](https://ruder.io/optimizing-gradient-descent/) by Sebastian Ruder
 - [Optimization Techniques for Gradient Descent](https://www.geeksforgeeks.org/optimization-techniques-for-gradient-descent/?ref=rp) by www.geeksforgeeks.org website
 - [optimization_algos](https://github.com/idc9/optimization_algos) GitHub repository by Iain Carmichael
-- [Deep Learning] (http://www.deeplearningbook.org) by Begnio, Goodfellow and Courtville
+- [Deep Learning](http://www.deeplearningbook.org) by Begnio, Goodfellow and Courtville
 
 
