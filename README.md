@@ -1,5 +1,7 @@
 # gradient-descent
 
+[![PyPI Latest Release](https://img.shields.io/pypi/v/gradient-descent.svg)](https://pypi.org/project/gradient-descent/)
+
 gradient-descent is a package that contains different gradient-based algorithms, usually used to optimize Neural Networks and other machine learning models. The package contains the following algorithms:
 
 - Gradients Descent
