@@ -44,7 +44,7 @@ git clone https://github.com/DanielDaCosta/gradient-descent.git
 pytest tests
 ```
 
-**TO DO**
+## TO DO
 
 The package is still on its early days and there are improvements to make. If you want to contribute to the project, you can start by addressing one of the items below:
 
