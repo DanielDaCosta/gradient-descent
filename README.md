@@ -50,7 +50,7 @@ The package is still on its early days and there are improvements to make. If yo
 # References & Acknowledgements
 First of all I would like to thank Hammad Shaikh by his well documented and very well explained GitHub repository [Math of Machine Learning Course by Siraj](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/blob/master/Gradient%20Descent%20for%20Optimization/Gradient%20Descent%20for%20Optimization.ipynb)
 
-I appreciate the help of the following contents and articles in the package development:
+I appreciate the help of the following repos and articles:
 
 - [Optimizing Gradient Descent](https://ruder.io/optimizing-gradient-descent/) by Sebastian Ruder
 - [Optimization Techniques for Gradient Descent](https://www.geeksforgeeks.org/optimization-techniques-for-gradient-descent/?ref=rp) by www.geeksforgeeks.org website
